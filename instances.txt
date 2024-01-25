@@ -1,12 +1,11 @@
 mastodon.social
 mastodon.online
 hachyderm.io
-journa.host
+universeodon.com
 mstdn.social
 mas.to
 mastodon.world
-mastodon.lol
-c.im
+social.lol
 infosec.exchange
 sfba.social
 masto.ai
